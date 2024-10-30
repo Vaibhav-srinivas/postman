@@ -1,0 +1,5 @@
+curl --location 'https://reqres.in/api/users' \
+--data '{
+    "name": "Vaibhav",
+    "job": "Software Engineer"
+}'
