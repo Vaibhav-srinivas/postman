@@ -77,8 +77,7 @@ Explanation:
      "name": "Vaibhav",
       "job": "Senior Software Engineer"
      }
- The --data option specifies the data to be sent in the body of the request.
+     The --data option specifies the data to be sent in the body of the request.
       Here,
       "name": "Vaibhav": Specifies the name of the user.
       "job": "Software Engineer": Specifies the user’s job title.
-
