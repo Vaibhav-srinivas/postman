@@ -53,11 +53,11 @@ By following these steps, we can successfully create a structured PUT request wi
      --data '{
     "name": "Vaibhav",
     "job": "Senior Software Engineer"
-}'
+    }'
 Explanation:
      curl: Command-line tool used for making HTTP requests.
 
-# 2.--location:
+# 2. --location:
 
      Instructs curl to follow any redirects if the server responds with a redirect status (e.g., 301 or 302).
      --request PUT:
